@@ -20,3 +20,4 @@ If you are not sure how to do this and if your organization should be listed her
 | amasol AG   | https://www.amasol.de/blog/2020/05/19/autonomous-cloud-journey-at-amasol-with-keptn | YES |
 | Realdolmen / Inetum   | https://marketplace.visualstudio.com/items?itemName=RealdolmenDevOps.keptn-integration | YES |
 | MayaData   | Uses Keptn for continuous delivery & quality gate evaluation in the manner described [here](https://youtu.be/aa5SzQmv4EQ?t=1452) | YES |
+| Intuit   | Uses Keptn for reliability Engineering and Kubernetes platfrom certification. Presented on community meeting [here](https://drive.google.com/file/d/1XyO_jylMrBjO-h_inZVXA0acMuI8MULn/view?usp=sharing) | YES |
